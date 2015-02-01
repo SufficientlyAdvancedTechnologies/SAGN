@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  achievement_id: 
+  player_id: 
+  progression: 1
+  status: 
+  meta: MyText
+
+two:
+  achievement_id: 
+  player_id: 
+  progression: 1
+  status: 
+  meta: MyText
