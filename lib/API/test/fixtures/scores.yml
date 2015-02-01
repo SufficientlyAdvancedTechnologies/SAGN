@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  value: 1
+  display_value: MyString
+  leaderboard_id: 
+  player_id: 
+  status: 
+  meta: MyText
+
+two:
+  value: 1
+  display_value: MyString
+  leaderboard_id: 
+  player_id: 
+  status: 
+  meta: MyText
