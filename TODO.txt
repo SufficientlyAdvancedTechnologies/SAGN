@@ -1,0 +1,29 @@
+Things to finish before 1.0.0-final
+Expected soft-launch date:   February 17, 2558 BE
+Expected "official" launch date: March 1, 2558 BE
+
+* [CAS]            Implement this! (rbCAS)
+* [Achievemintz]   Achievement progression should update badge multiplier
+* [Achievemintz]   Badge multiplier reaching 1.0 should trigger badge unlock
+* [Achievemintz]   Flesh out specs
+* [Achievemintz]   Flesh out API controllers
+* [Achievemintz]   Integrate CAS
+* [Achievemintz]   Flesh out admin panel
+* [LeaderBored]    Flesh out specs
+* [LeaderBored]    Flesh out API controllers
+* [LeaderBored]    Integrate CAS
+* [LeaderBored]    Flesh out admin panel
+* [CloudWhoreage]  Implement this! (basic cloud-storage - can probably just toss a record in the database for now, S3 if demand picks up)
+* [iOS Client]     Implement this!
+* [Android Client] Implement this!
+* [OS X Client]    Implement this!
+* [Windows Client] Implement this!
+* [Linux Client]   Implement this!
+* [HOSTING]        AWS or BlueBox? (both? others?)
+* [Challenges]     Possibly implement this... Might push off to 1.1.x
+
+## 2.0
+* in-app-purchase store?
+* virtual currency?
+* ???
+* PROFIT!
